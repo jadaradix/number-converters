@@ -1,0 +1,22 @@
+{
+  "name": "number-converters",
+  "version": "1.0.0",
+  "description": "number-converters",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadaradix/number-converters.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadaradix/number-converters/issues"
+  },
+  "homepage": "https://github.com/jadaradix/number-converters"
+}
